@@ -1,8 +1,6 @@
-# Clion
+### Clion ###
 .idea/
 cmake-build-debug/
 CMakeLists.txt
-
-# C
 *.exe
 *.doc
